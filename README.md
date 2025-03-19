@@ -1,6 +1,8 @@
 # Legend Of Zelda: Link's Awakening DX: Randomizer
 Or, LADXR for short.
 
+This fork is for improving the mermaid sprites and changing the text and names of relevant items.
+
 ## What is this?
 
 See https://daid.github.io/LADXR/
